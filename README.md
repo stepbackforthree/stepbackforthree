@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stepbackforthree, one of feverish fans of basketball since you can see from my nickname.
-- 👀 I’m interested in sports, metal and rock music, games, technology and also, my old line, programming.
+- 👀 I’m interested in sport, metal and rock music, game, technology and also, my old line, programming.
 - 🌱 I’m currently learning machine learning and Java development.
 - 📫 How to reach me? Please feel free to email me: wanghaoyu1323@gmail.com
 
